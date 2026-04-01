@@ -130,21 +130,3 @@ Password: admin123
 2. Review `ElectionSystem.java` for code structure
 3. Compile and test with the sample workflow
 4. Modify candidates and default credentials as needed
-
-## Future Enhancements
-
-- Database persistence
-- Password hashing (BCrypt)
-- Network/API support
-- Web-based UI
-- End-to-end encryption
-- Unit testing framework
-- Multi-officer support
-
-## License
-
-Educational project - Free to use and modify
-
----
-
-**Built with OOP Principles for Learning**
