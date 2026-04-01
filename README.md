@@ -1,4 +1,4 @@
-# 🇮🇳 Digital Election System
+# Digital Election Management System
 
 A secure, object-oriented Java application for managing democratic elections digitally.
 
